@@ -1,6 +1,6 @@
 # My guide on solving Ethernaut CTF with Foundry
 
-## Resources used: [Foundry](https://book.getfoundry.sh/) [RealJonnyTime](https://youtube.com/playlist?list=PLKXasCp8iWpjYKwk0hcdVDVZlpW_NGEYS&si=hcWDR5dG9yokcxz9) [Smart contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdWh5ehvlkFX-H3gRObKvSL6&si=Nve3OhqRdwtRREKr)
+## Resources used: [Foundry](https://book.getfoundry.sh/), [RealJonnyTime](https://youtube.com/playlist?list=PLKXasCp8iWpjYKwk0hcdVDVZlpW_NGEYS&si=hcWDR5dG9yokcxz9), [Smart contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdWh5ehvlkFX-H3gRObKvSL6&si=Nve3OhqRdwtRREKr).
 
 
 
